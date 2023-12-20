@@ -1,5 +1,4 @@
-﻿  glad.c
-  Source.cpp
+﻿  Source.cpp
 d:\project\model-viewer-master\modelviewer\shader.h(89): warning C4101: e: неиспользованная локальная переменная
 d:\project\model-viewer-master\modelviewer\model.h(66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
@@ -9,17 +8,15 @@ d:\project\model-viewer-master\modelviewer\model.h(72): warning C4267: аргу�
 d:\project\model-viewer-master\modelviewer\model.h(73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(166): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(167): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(170): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(171): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(174): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(172): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(175): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(178): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(176): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(179): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(195): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(238): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-d:\project\model-viewer-master\modelviewer\model.h(241): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(180): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(183): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(184): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(200): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(243): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(246): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(248): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
@@ -28,23 +25,10 @@ d:\project\model-viewer-master\modelviewer\model.h(253): warning C4267: аргу
 d:\project\model-viewer-master\modelviewer\model.h(256): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(258): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\model.h(261): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(263): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\project\model-viewer-master\modelviewer\model.h(266): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 d:\project\model-viewer-master\modelviewer\source.cpp(236): warning C4244: =: преобразование "double" в "float", возможна потеря данных
 d:\project\model-viewer-master\modelviewer\source.cpp(237): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-glfw3.lib(context.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(context.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(init.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(init.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(input.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(input.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(monitor.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(monitor.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(vulkan.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(vulkan.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(window.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(window.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(win32_init.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(win32_init.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(win32_joystick.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(win32_joystick.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(win32_monitor.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(win32_monitor.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(win32_time.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(win32_time.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(win32_thread.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(win32_thread.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(win32_window.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(win32_window.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(wgl_context.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(wgl_context.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(egl_context.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(egl_context.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
-glfw3.lib(osmesa_context.obj) : warning LNK4099: "glfw3.pdb" PDB не найден с "glfw3.lib(osmesa_context.obj)" или на "D:\project\Model-Viewer-master\x64\Debug\glfw3.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
   ModelViewer.vcxproj -> D:\project\Model-Viewer-master\x64\Debug\ModelViewer.exe
   "pwsh.exe" не является внутренней или внешней
   командой, исполняемой программой или пакетным файлом.

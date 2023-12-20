@@ -1,6 +1,38 @@
-﻿  Создание кода
+﻿  glad.c
+  Source.cpp
+D:\project\Model-Viewer-master\ModelViewer\Shader.h(89,40): warning C4101: e: неиспользованная локальная переменная
+D:\project\Model-Viewer-master\ModelViewer\Model.h(66,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(67,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(68,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(71,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(72,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(73,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(76,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(77,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(171): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(172,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(175): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(176,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(179): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(180,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(183): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(184,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(200,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(243): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(246,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(248): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(251,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(253): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(256,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(258): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(261,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(263): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Model.h(266,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Source.cpp(236,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\project\Model-Viewer-master\ModelViewer\Source.cpp(237,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода
   Previous IPDB not found, fall back to full compilation.
-  All 950 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 956 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Создание кода завершено
   ModelViewer.vcxproj -> D:\project\Model-Viewer-master\x64\Release\ModelViewer.exe
   "pwsh.exe" не является внутренней или внешней
